@@ -1,0 +1,37 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\CreateAccounts\bin\Debug\CreateAccounts.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\CreateAccounts\bin\Debug\CreateAccounts.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\CreateAccounts\bin\Debug\CreateAccounts.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\CreateAccounts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\CreateAccounts\obj\x86\Debug\CreateAccounts.CreateAccounts.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\CreateAccounts\obj\x86\Debug\CreateAccounts.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\CreateAccounts\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\CreateAccounts\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\CreateAccounts\obj\x86\Debug\CreateAccounts.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\CreateAccounts\obj\x86\Debug\CreateAccounts.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\CreateAccounts\obj\x86\Debug\CreateAccounts.pdb
+C:\books\2010\VB2010HTP\examples\ch08\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.exe
+C:\books\2010\VB2010HTP\examples\ch08\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.xml
+C:\books\2010\VB2010HTP\examples\ch08\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.pdb
+C:\books\2010\VB2010HTP\examples\ch08\fig08_03\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.exe
+C:\books\2010\VB2010HTP\examples\ch08\fig08_03\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.xml
+C:\books\2010\VB2010HTP\examples\ch08\fig08_03\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.pdb
+C:\books\2010\VB2010HTP\examples\ch08\fig08_03\CreateAccounts\CreateAccounts\bin\Debug\CreateAccounts.exe
+C:\books\2010\VB2010HTP\examples\ch08\fig08_03\CreateAccounts\CreateAccounts\bin\Debug\CreateAccounts.pdb
+C:\books\2010\VB2010HTP\examples\ch08\fig08_03\CreateAccounts\CreateAccounts\bin\Debug\CreateAccounts.xml
+C:\books\2010\VB2010HTP\examples\ch08\fig08_03\CreateAccounts\CreateAccounts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\books\2010\VB2010HTP\examples\ch08\fig08_03\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.CreateAccounts.resources
+C:\books\2010\VB2010HTP\examples\ch08\fig08_03\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.Resources.resources
+C:\books\2010\VB2010HTP\examples\ch08\fig08_03\CreateAccounts\CreateAccounts\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\books\2010\VB2010HTP\examples\ch08\fig08_03\CreateAccounts\CreateAccounts\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\books\2010\VB2010HTP\examples\ch08\fig08_07\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.exe
+C:\books\2010\VB2010HTP\examples\ch08\fig08_07\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.xml
+C:\books\2010\VB2010HTP\examples\ch08\fig08_07\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.pdb
+C:\books\2012\VB2012HTP\examples\ch08\fig08_07\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.xml
+C:\books\2012\VB2012HTP\examples\ch08\fig08_07\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.pdb
+C:\books\2012\VB2012HTP\examples\ch08\fig08_07\CreateAccounts\CreateAccounts\bin\Debug\CreateAccounts.exe
+C:\books\2012\VB2012HTP\examples\ch08\fig08_07\CreateAccounts\CreateAccounts\bin\Debug\CreateAccounts.pdb
+C:\books\2012\VB2012HTP\examples\ch08\fig08_07\CreateAccounts\CreateAccounts\bin\Debug\CreateAccounts.xml
+C:\books\2012\VB2012HTP\examples\ch08\fig08_07\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.CreateAccounts.resources
+C:\books\2012\VB2012HTP\examples\ch08\fig08_07\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch08\fig08_07\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.vbproj.GenerateResource.Cache
+C:\books\2012\VB2012HTP\examples\ch08\fig08_07\CreateAccounts\CreateAccounts\obj\x86\Debug\CreateAccounts.exe

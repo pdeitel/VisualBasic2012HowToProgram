@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{811A1D78-D365-497E-8634-67AB7126CC50}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AnimationDemo.My.MyApplication</StartupObject>
+    <RootNamespace>AnimationDemo</RootNamespace>
+    <AssemblyName>AnimationDemo</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AnimationDemo.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AnimationDemo.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnimationDemo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnimationDemo.Designer.vb">
+      <DependentUpon>AnimationDemo.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AnimationDemo.resx">
+      <DependentUpon>AnimationDemo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel0.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel5.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel6.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel7.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel8.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel9.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel10.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel11.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel12.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel13.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel14.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel15.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel17.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel18.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel19.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel20.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel21.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel22.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel23.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel24.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel25.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel26.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel27.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel28.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deitel29.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

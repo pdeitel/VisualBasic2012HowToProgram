@@ -1,0 +1,31 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\FlagQuiz\bin\Debug\FlagQuiz.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\FlagQuiz\bin\Debug\FlagQuiz.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\FlagQuiz\bin\Debug\FlagQuiz.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\FlagQuiz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\FlagQuiz\obj\x86\Debug\FlagQuiz.FlagQuiz.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\FlagQuiz\obj\x86\Debug\FlagQuiz.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\FlagQuiz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\FlagQuiz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\FlagQuiz\obj\x86\Debug\FlagQuiz.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\FlagQuiz\obj\x86\Debug\FlagQuiz.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\FlagQuiz\obj\x86\Debug\FlagQuiz.pdb
+C:\books\2010\VB2010HTP\examples\ch07\FlagQuiz\FlagQuiz\obj\x86\Debug\FlagQuiz.exe
+C:\books\2010\VB2010HTP\examples\ch07\FlagQuiz\FlagQuiz\obj\x86\Debug\FlagQuiz.xml
+C:\books\2010\VB2010HTP\examples\ch07\FlagQuiz\FlagQuiz\obj\x86\Debug\FlagQuiz.pdb
+C:\books\2010\VB2010HTP\examples\ch07\FlagQuiz\FlagQuiz\bin\Debug\FlagQuiz.exe
+C:\books\2010\VB2010HTP\examples\ch07\FlagQuiz\FlagQuiz\bin\Debug\FlagQuiz.pdb
+C:\books\2010\VB2010HTP\examples\ch07\FlagQuiz\FlagQuiz\bin\Debug\FlagQuiz.xml
+C:\books\2010\VB2010HTP\examples\ch07\FlagQuiz\FlagQuiz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\books\2010\VB2010HTP\examples\ch07\FlagQuiz\FlagQuiz\obj\x86\Debug\FlagQuiz.FlagQuiz.resources
+C:\books\2010\VB2010HTP\examples\ch07\FlagQuiz\FlagQuiz\obj\x86\Debug\FlagQuiz.Resources.resources
+C:\books\2010\VB2010HTP\examples\ch07\FlagQuiz\FlagQuiz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\books\2010\VB2010HTP\examples\ch07\FlagQuiz\FlagQuiz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\books\2012\VB2012HTP\examples\ch07\fig07_07\FlagQuiz\FlagQuiz\obj\x86\Debug\FlagQuiz.exe
+C:\books\2012\VB2012HTP\examples\ch07\fig07_07\FlagQuiz\FlagQuiz\obj\x86\Debug\FlagQuiz.xml
+C:\books\2012\VB2012HTP\examples\ch07\fig07_07\FlagQuiz\FlagQuiz\obj\x86\Debug\FlagQuiz.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_07\FlagQuiz\FlagQuiz\bin\Debug\FlagQuiz.exe
+C:\books\2012\VB2012HTP\examples\ch07\fig07_07\FlagQuiz\FlagQuiz\bin\Debug\FlagQuiz.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_07\FlagQuiz\FlagQuiz\bin\Debug\FlagQuiz.xml
+C:\books\2012\VB2012HTP\examples\ch07\fig07_07\FlagQuiz\FlagQuiz\obj\x86\Debug\FlagQuiz.FlagQuiz.resources
+C:\books\2012\VB2012HTP\examples\ch07\fig07_07\FlagQuiz\FlagQuiz\obj\x86\Debug\FlagQuiz.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch07\fig07_07\FlagQuiz\FlagQuiz\obj\x86\Debug\FlagQuiz.vbproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\books\2012\VB2012HTP\examples\ch03\fig03_27\Comparison\Comparison\bin\Debug\Comparison.exe.config
+C:\books\2012\VB2012HTP\examples\ch03\fig03_27\Comparison\Comparison\obj\Debug\Comparison.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch03\fig03_27\Comparison\Comparison\obj\Debug\Comparison.vbproj.GenerateResource.Cache
+C:\books\2012\VB2012HTP\examples\ch03\fig03_27\Comparison\Comparison\bin\Debug\Comparison.exe
+C:\books\2012\VB2012HTP\examples\ch03\fig03_27\Comparison\Comparison\bin\Debug\Comparison.pdb
+C:\books\2012\VB2012HTP\examples\ch03\fig03_27\Comparison\Comparison\bin\Debug\Comparison.xml
+C:\books\2012\VB2012HTP\examples\ch03\fig03_27\Comparison\Comparison\obj\Debug\Comparison.exe
+C:\books\2012\VB2012HTP\examples\ch03\fig03_27\Comparison\Comparison\obj\Debug\Comparison.xml
+C:\books\2012\VB2012HTP\examples\ch03\fig03_27\Comparison\Comparison\obj\Debug\Comparison.pdb

@@ -1,0 +1,98 @@
+﻿<!-- Fig. 21.4: MainWindow.xaml -->
+<!-- Defining gradients in XAML. -->
+<Page
+    x:Class="UsingGradients.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UsingGradients"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+   <Grid 
+      Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+      <!-- TextBlock in the background to show transparency -->
+      <TextBlock TextWrapping="Wrap" Text="Transparency test" 
+         FontSize="200" HorizontalAlignment="Center" 
+         VerticalAlignment="Center" TextAlignment="Center"/>
+
+      <!-- sample rectangle with linear gradient fill -->
+      <Rectangle>
+         <Rectangle.Fill>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+               <GradientStop x:Name="firstStop" Color="White"/>
+               <GradientStop x:Name="secondStop" Color="Black" 
+                  Offset="1"/>
+            </LinearGradientBrush>
+         </Rectangle.Fill>
+      </Rectangle>
+
+      <!-- Controls for selecting color and transparency -->
+      <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center">
+         <!-- shows which TextBox corresponds with which ARGB value-->
+         <StackPanel Orientation="Horizontal">
+            <TextBlock TextWrapping="Wrap" Text="Alpha:" 
+               Width="75" Margin="8" FontSize="20"/>
+            <TextBlock TextWrapping="Wrap" Text="Red:" 
+               Width="75" Margin="8" FontSize="20"/>
+            <TextBlock TextWrapping="Wrap" Text="Green:" 
+               Width="75" Margin="8" FontSize="20"/>
+            <TextBlock TextWrapping="Wrap" Text="Blue:" 
+               Width="75" Margin="8" FontSize="20"/>
+         </StackPanel>
+
+         <!-- GUI to select the color of the first GradientStop -->
+         <StackPanel Orientation="Horizontal">
+            <TextBox x:Name="fromAlpha" TextWrapping="Wrap" Text="255" 
+               Width="75" Margin="8" TextAlignment="Center" 
+               FontSize="20"/>
+            <TextBox x:Name="fromRed" TextWrapping="Wrap" Text="255" 
+               Width="75" Margin="8" TextAlignment="Center" 
+               FontSize="20"/>
+            <TextBox x:Name="fromGreen" TextWrapping="Wrap" Text="255" 
+               Width="75" Margin="8" TextAlignment="Center" 
+               FontSize="20"/>
+            <TextBox x:Name="fromBlue" TextWrapping="Wrap" Text="255" 
+               Width="75" Margin="8" TextAlignment="Center" 
+               FontSize="20"/>
+            <Button x:Name="startColorButton" Content="Set Start Color"
+               Width="150" Margin="8"/>
+         </StackPanel>
+
+         <!-- GUI to select the color of second GradientStop -->
+         <StackPanel Orientation="Horizontal">
+            <TextBox x:Name="toAlpha" TextWrapping="Wrap" Text="255" 
+               Width="75" Margin="8" TextAlignment="Center" 
+               FontSize="20"/>
+            <TextBox x:Name="toRed" TextWrapping="Wrap" Text="0" 
+               Width="75" Margin="8" TextAlignment="Center" 
+               FontSize="20"/>
+            <TextBox x:Name="toGreen" TextWrapping="Wrap" Text="0" 
+               Width="75" Margin="8" TextAlignment="Center" 
+               FontSize="20"/>
+            <TextBox x:Name="toBlue" TextWrapping="Wrap" Text="0" 
+               Width="75" Margin="8" TextAlignment="Center" 
+               FontSize="20"/>
+            <Button x:Name="endColorButton" Content="Set End Color" 
+               Width="150" Margin="8"/>
+         </StackPanel>
+      </StackPanel>
+   </Grid>
+</Page>
+
+<!--
+**************************************************************************
+* (C) Copyright 1992-2014 by Deitel & Associates, Inc. and               *
+* Pearson Education, Inc. All Rights Reserved.                           *
+*                                                                        *
+* DISCLAIMER: The authors and publisher of this book have used their     *
+* best efforts in preparing the book. These efforts include the          *
+* development, research, and testing of the theories and programs        *
+* to determine their effectiveness. The authors and publisher make       *
+* no warranty of any kind, expressed or implied, with regard to these    *
+* programs or to the documentation contained in these books. The authors *
+* and publisher shall not be liable in any event for incidental or       *
+* consequential damages in connection with, or arising out of, the       *
+* furnishing, performance, or use of these programs.                     *
+************************************************************************** 
+-->

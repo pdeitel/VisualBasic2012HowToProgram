@@ -1,0 +1,42 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DentalPayment\bin\Debug\DentalPayment.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DentalPayment\bin\Debug\DentalPayment.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DentalPayment\bin\Debug\DentalPayment.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DentalPayment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DentalPayment\obj\x86\Debug\DentalPayment.DentalPayment.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DentalPayment\obj\x86\Debug\DentalPayment.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DentalPayment\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DentalPayment\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DentalPayment\obj\x86\Debug\DentalPayment.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DentalPayment\obj\x86\Debug\DentalPayment.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DentalPayment\obj\x86\Debug\DentalPayment.pdb
+C:\books\2010\VB2010HTP\examples\ch05\DentalPayment\DentalPayment\obj\x86\Debug\DentalPayment.exe
+C:\books\2010\VB2010HTP\examples\ch05\DentalPayment\DentalPayment\obj\x86\Debug\DentalPayment.xml
+C:\books\2010\VB2010HTP\examples\ch05\DentalPayment\DentalPayment\obj\x86\Debug\DentalPayment.pdb
+C:\books\2010\VB2010HTP\examples\ch05\DentalPayment\DentalPayment\bin\Debug\DentalPayment.exe
+C:\books\2010\VB2010HTP\examples\ch05\DentalPayment\DentalPayment\bin\Debug\DentalPayment.pdb
+C:\books\2010\VB2010HTP\examples\ch05\DentalPayment\DentalPayment\bin\Debug\DentalPayment.xml
+C:\books\2010\VB2010HTP\examples\ch05\DentalPayment\DentalPayment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\books\2010\VB2010HTP\examples\ch05\DentalPayment\DentalPayment\obj\x86\Debug\DentalPayment.DentalPayment.resources
+C:\books\2010\VB2010HTP\examples\ch05\DentalPayment\DentalPayment\obj\x86\Debug\DentalPayment.Resources.resources
+C:\books\2010\VB2010HTP\examples\ch05\DentalPayment\DentalPayment\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\books\2010\VB2010HTP\examples\ch05\DentalPayment\DentalPayment\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\books\2010\VB2010HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\obj\x86\Debug\DentalPayment.exe
+C:\books\2010\VB2010HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\obj\x86\Debug\DentalPayment.xml
+C:\books\2010\VB2010HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\obj\x86\Debug\DentalPayment.pdb
+C:\books\2010\VB2010HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\bin\Debug\DentalPayment.exe
+C:\books\2010\VB2010HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\bin\Debug\DentalPayment.pdb
+C:\books\2010\VB2010HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\bin\Debug\DentalPayment.xml
+C:\books\2010\VB2010HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\books\2010\VB2010HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\obj\x86\Debug\DentalPayment.DentalPayment.resources
+C:\books\2010\VB2010HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\obj\x86\Debug\DentalPayment.Resources.resources
+C:\books\2010\VB2010HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\books\2010\VB2010HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\books\2012\VB2012HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\obj\x86\Debug\DentalPayment.exe
+C:\books\2012\VB2012HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\obj\x86\Debug\DentalPayment.xml
+C:\books\2012\VB2012HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\obj\x86\Debug\DentalPayment.pdb
+C:\books\2012\VB2012HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\bin\Debug\DentalPayment.exe
+C:\books\2012\VB2012HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\bin\Debug\DentalPayment.pdb
+C:\books\2012\VB2012HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\bin\Debug\DentalPayment.xml
+C:\books\2012\VB2012HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\obj\x86\Debug\DentalPayment.DentalPayment.resources
+C:\books\2012\VB2012HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\obj\x86\Debug\DentalPayment.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch05\fig05_18\DentalPayment\DentalPayment\obj\x86\Debug\DentalPayment.vbproj.GenerateResource.Cache

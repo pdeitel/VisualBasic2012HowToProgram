@@ -1,0 +1,14 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Power\bin\Debug\Power.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Power\bin\Debug\Power.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Power\bin\Debug\Power.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Power\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Power\obj\x86\Debug\Power.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Power\obj\x86\Debug\Power.Power.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Power\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Power\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Power\obj\x86\Debug\Power.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Power\obj\x86\Debug\Power.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Power\obj\x86\Debug\Power.pdb
+C:\books\2012\VB2012HTP\examples\ch06\fig06_19\Power\Power\obj\x86\Debug\Power.exe
+C:\books\2012\VB2012HTP\examples\ch06\fig06_19\Power\Power\obj\x86\Debug\Power.xml
+C:\books\2012\VB2012HTP\examples\ch06\fig06_19\Power\Power\obj\x86\Debug\Power.pdb

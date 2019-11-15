@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<!-- Fig. 19.23: employeesOld.xml -->
+<!-- Sample old-format input for the XMLCombine application. -->
+<employees xmlns="http://www.deitel.com/employeesold">
+  <employeelisting>
+    <firstname>Christopher</firstname>
+    <lastname>Green</lastname>
+    <salary>1460</salary>
+  </employeelisting>
+  <employeelisting>
+    <firstname>Michael</firstname>
+    <lastname>Red</lastname>
+    <salary>1420</salary>
+  </employeelisting>
+</employees>
+

@@ -1,0 +1,34 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InterestCalculator\bin\Debug\InterestCalculator.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InterestCalculator\bin\Debug\InterestCalculator.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InterestCalculator\bin\Debug\InterestCalculator.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InterestCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InterestCalculator\obj\x86\Debug\InterestCalculator.InterestCalculator.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InterestCalculator\obj\x86\Debug\InterestCalculator.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InterestCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InterestCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InterestCalculator\obj\x86\Debug\InterestCalculator.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InterestCalculator\obj\x86\Debug\InterestCalculator.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InterestCalculator\obj\x86\Debug\InterestCalculator.pdb
+C:\books\2010\VB2010HTP\examples\ch05\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.exe
+C:\books\2010\VB2010HTP\examples\ch05\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.xml
+C:\books\2010\VB2010HTP\examples\ch05\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.pdb
+C:\books\2010\VB2010HTP\examples\ch05\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe
+C:\books\2010\VB2010HTP\examples\ch05\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.pdb
+C:\books\2010\VB2010HTP\examples\ch05\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.xml
+C:\books\2010\VB2010HTP\examples\ch05\InterestCalculator\InterestCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\books\2010\VB2010HTP\examples\ch05\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.InterestCalculator.resources
+C:\books\2010\VB2010HTP\examples\ch05\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.Resources.resources
+C:\books\2010\VB2010HTP\examples\ch05\InterestCalculator\InterestCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\books\2010\VB2010HTP\examples\ch05\InterestCalculator\InterestCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\books\2010\VB2010HTP\examples\ch05\fig05_05\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.exe
+C:\books\2010\VB2010HTP\examples\ch05\fig05_05\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.xml
+C:\books\2010\VB2010HTP\examples\ch05\fig05_05\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.pdb
+C:\books\2012\VB2012HTP\examples\ch05\fig05_05\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.exe
+C:\books\2012\VB2012HTP\examples\ch05\fig05_05\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.xml
+C:\books\2012\VB2012HTP\examples\ch05\fig05_05\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.pdb
+C:\books\2012\VB2012HTP\examples\ch05\fig05_05\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe
+C:\books\2012\VB2012HTP\examples\ch05\fig05_05\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.pdb
+C:\books\2012\VB2012HTP\examples\ch05\fig05_05\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.xml
+C:\books\2012\VB2012HTP\examples\ch05\fig05_05\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.InterestCalculator.resources
+C:\books\2012\VB2012HTP\examples\ch05\fig05_05\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch05\fig05_05\InterestCalculator\InterestCalculator\obj\x86\Debug\InterestCalculator.vbproj.GenerateResource.Cache

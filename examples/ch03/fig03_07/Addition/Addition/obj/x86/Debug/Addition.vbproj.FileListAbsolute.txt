@@ -1,0 +1,9 @@
+C:\books\2012\VB2012HTP\examples\ch03\fig03_07\Addition\Addition\bin\Debug\Addition.exe
+C:\books\2012\VB2012HTP\examples\ch03\fig03_07\Addition\Addition\bin\Debug\Addition.pdb
+C:\books\2012\VB2012HTP\examples\ch03\fig03_07\Addition\Addition\bin\Debug\Addition.xml
+C:\books\2012\VB2012HTP\examples\ch03\fig03_07\Addition\Addition\obj\x86\Debug\WindowsApplication1.Addition.resources
+C:\books\2012\VB2012HTP\examples\ch03\fig03_07\Addition\Addition\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch03\fig03_07\Addition\Addition\obj\x86\Debug\Addition.vbproj.GenerateResource.Cache
+C:\books\2012\VB2012HTP\examples\ch03\fig03_07\Addition\Addition\obj\x86\Debug\Addition.exe
+C:\books\2012\VB2012HTP\examples\ch03\fig03_07\Addition\Addition\obj\x86\Debug\Addition.xml
+C:\books\2012\VB2012HTP\examples\ch03\fig03_07\Addition\Addition\obj\x86\Debug\Addition.pdb

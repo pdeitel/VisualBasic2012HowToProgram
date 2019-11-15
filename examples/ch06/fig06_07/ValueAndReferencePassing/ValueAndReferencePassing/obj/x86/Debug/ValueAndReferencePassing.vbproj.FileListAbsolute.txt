@@ -1,0 +1,31 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ValueAndReferencePassing\bin\Debug\ValueAndReferencePassing.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ValueAndReferencePassing\bin\Debug\ValueAndReferencePassing.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ValueAndReferencePassing\bin\Debug\ValueAndReferencePassing.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ValueAndReferencePassing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ValueAndReferencePassing\obj\x86\Debug\ValueAndReferencePassing.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ValueAndReferencePassing\obj\x86\Debug\ValueAndReferencePassing.ValueAndReferencePassing.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ValueAndReferencePassing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ValueAndReferencePassing\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ValueAndReferencePassing\obj\x86\Debug\ValueAndReferencePassing.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ValueAndReferencePassing\obj\x86\Debug\ValueAndReferencePassing.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ValueAndReferencePassing\obj\x86\Debug\ValueAndReferencePassing.pdb
+C:\books\2010\VB2010HTP\examples\ch06\ValueAndReferencePassing\ValueAndReferencePassing\obj\x86\Debug\ValueAndReferencePassing.exe
+C:\books\2010\VB2010HTP\examples\ch06\ValueAndReferencePassing\ValueAndReferencePassing\obj\x86\Debug\ValueAndReferencePassing.xml
+C:\books\2010\VB2010HTP\examples\ch06\ValueAndReferencePassing\ValueAndReferencePassing\obj\x86\Debug\ValueAndReferencePassing.pdb
+C:\books\2010\VB2010HTP\examples\ch06\ValueAndReferencePassing\ValueAndReferencePassing\bin\Debug\ValueAndReferencePassing.exe
+C:\books\2010\VB2010HTP\examples\ch06\ValueAndReferencePassing\ValueAndReferencePassing\bin\Debug\ValueAndReferencePassing.pdb
+C:\books\2010\VB2010HTP\examples\ch06\ValueAndReferencePassing\ValueAndReferencePassing\bin\Debug\ValueAndReferencePassing.xml
+C:\books\2010\VB2010HTP\examples\ch06\ValueAndReferencePassing\ValueAndReferencePassing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\books\2010\VB2010HTP\examples\ch06\ValueAndReferencePassing\ValueAndReferencePassing\obj\x86\Debug\ValueAndReferencePassing.Resources.resources
+C:\books\2010\VB2010HTP\examples\ch06\ValueAndReferencePassing\ValueAndReferencePassing\obj\x86\Debug\ValueAndReferencePassing.ValueAndReferencePassing.resources
+C:\books\2010\VB2010HTP\examples\ch06\ValueAndReferencePassing\ValueAndReferencePassing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\books\2010\VB2010HTP\examples\ch06\ValueAndReferencePassing\ValueAndReferencePassing\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\books\2012\VB2012HTP\examples\ch06\fig06_07\ValueAndReferencePassing\ValueAndReferencePassing\obj\x86\Debug\ValueAndReferencePassing.exe
+C:\books\2012\VB2012HTP\examples\ch06\fig06_07\ValueAndReferencePassing\ValueAndReferencePassing\obj\x86\Debug\ValueAndReferencePassing.xml
+C:\books\2012\VB2012HTP\examples\ch06\fig06_07\ValueAndReferencePassing\ValueAndReferencePassing\obj\x86\Debug\ValueAndReferencePassing.pdb
+C:\books\2012\VB2012HTP\examples\ch06\fig06_07\ValueAndReferencePassing\ValueAndReferencePassing\bin\Debug\ValueAndReferencePassing.exe
+C:\books\2012\VB2012HTP\examples\ch06\fig06_07\ValueAndReferencePassing\ValueAndReferencePassing\bin\Debug\ValueAndReferencePassing.pdb
+C:\books\2012\VB2012HTP\examples\ch06\fig06_07\ValueAndReferencePassing\ValueAndReferencePassing\bin\Debug\ValueAndReferencePassing.xml
+C:\books\2012\VB2012HTP\examples\ch06\fig06_07\ValueAndReferencePassing\ValueAndReferencePassing\obj\x86\Debug\ValueAndReferencePassing.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch06\fig06_07\ValueAndReferencePassing\ValueAndReferencePassing\obj\x86\Debug\ValueAndReferencePassing.ValueAndReferencePassing.resources
+C:\books\2012\VB2012HTP\examples\ch06\fig06_07\ValueAndReferencePassing\ValueAndReferencePassing\obj\x86\Debug\ValueAndReferencePassing.vbproj.GenerateResource.Cache

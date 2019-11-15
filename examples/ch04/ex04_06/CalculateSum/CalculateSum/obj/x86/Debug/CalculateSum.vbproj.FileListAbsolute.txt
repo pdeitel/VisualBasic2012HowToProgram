@@ -1,0 +1,9 @@
+C:\books\2012\VB2012HTP\examples\ch04\ex04_06\CalculateSum\CalculateSum\bin\Debug\CalculateSum.vb.exe
+C:\books\2012\VB2012HTP\examples\ch04\ex04_06\CalculateSum\CalculateSum\bin\Debug\CalculateSum.vb.pdb
+C:\books\2012\VB2012HTP\examples\ch04\ex04_06\CalculateSum\CalculateSum\bin\Debug\CalculateSum.vb.xml
+C:\books\2012\VB2012HTP\examples\ch04\ex04_06\CalculateSum\CalculateSum\obj\x86\Debug\CalculateSum.vb.CalculateSum.resources
+C:\books\2012\VB2012HTP\examples\ch04\ex04_06\CalculateSum\CalculateSum\obj\x86\Debug\CalculateSum.vb.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch04\ex04_06\CalculateSum\CalculateSum\obj\x86\Debug\CalculateSum.vbproj.GenerateResource.Cache
+C:\books\2012\VB2012HTP\examples\ch04\ex04_06\CalculateSum\CalculateSum\obj\x86\Debug\CalculateSum.vb.exe
+C:\books\2012\VB2012HTP\examples\ch04\ex04_06\CalculateSum\CalculateSum\obj\x86\Debug\CalculateSum.vb.xml
+C:\books\2012\VB2012HTP\examples\ch04\ex04_06\CalculateSum\CalculateSum\obj\x86\Debug\CalculateSum.vb.pdb

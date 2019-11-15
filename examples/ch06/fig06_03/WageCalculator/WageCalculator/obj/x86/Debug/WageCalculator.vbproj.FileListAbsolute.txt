@@ -1,0 +1,42 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\WageCalculator\bin\Debug\WageCalculator.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\WageCalculator\bin\Debug\WageCalculator.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\WageCalculator\bin\Debug\WageCalculator.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\WageCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\WageCalculator\obj\x86\Debug\WageCalculator.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\WageCalculator\obj\x86\Debug\WageCalculator.WageCalculator.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\WageCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\WageCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\WageCalculator\obj\x86\Debug\WageCalculator.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\WageCalculator\obj\x86\Debug\WageCalculator.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\WageCalculator\obj\x86\Debug\WageCalculator.pdb
+C:\books\2010\VB2010HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.exe
+C:\books\2010\VB2010HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.xml
+C:\books\2010\VB2010HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.pdb
+C:\books\2010\VB2010HTP\examples\ch06\fig06_02\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.exe
+C:\books\2010\VB2010HTP\examples\ch06\fig06_02\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.xml
+C:\books\2010\VB2010HTP\examples\ch06\fig06_02\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.pdb
+C:\books\2010\VB2010HTP\examples\ch06\fig06_02\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe
+C:\books\2010\VB2010HTP\examples\ch06\fig06_02\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
+C:\books\2010\VB2010HTP\examples\ch06\fig06_02\WageCalculator\WageCalculator\bin\Debug\WageCalculator.xml
+C:\books\2010\VB2010HTP\examples\ch06\fig06_02\WageCalculator\WageCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\books\2010\VB2010HTP\examples\ch06\fig06_02\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.Resources.resources
+C:\books\2010\VB2010HTP\examples\ch06\fig06_02\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.WageCalculator.resources
+C:\books\2010\VB2010HTP\examples\ch06\fig06_02\WageCalculator\WageCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\books\2010\VB2010HTP\examples\ch06\fig06_02\WageCalculator\WageCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\books\2010\VB2010HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe
+C:\books\2010\VB2010HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
+C:\books\2010\VB2010HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\bin\Debug\WageCalculator.xml
+C:\books\2010\VB2010HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\books\2010\VB2010HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.Resources.resources
+C:\books\2010\VB2010HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.WageCalculator.resources
+C:\books\2010\VB2010HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\books\2010\VB2010HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\books\2012\VB2012HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.exe
+C:\books\2012\VB2012HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.xml
+C:\books\2012\VB2012HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.pdb
+C:\books\2012\VB2012HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe
+C:\books\2012\VB2012HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
+C:\books\2012\VB2012HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\bin\Debug\WageCalculator.xml
+C:\books\2012\VB2012HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.WageCalculator.resources
+C:\books\2012\VB2012HTP\examples\ch06\fig06_03\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.vbproj.GenerateResource.Cache

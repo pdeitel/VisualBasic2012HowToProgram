@@ -1,0 +1,23 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ForCounter\bin\Debug\ForCounter.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ForCounter\bin\Debug\ForCounter.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ForCounter\bin\Debug\ForCounter.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ForCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ForCounter\obj\x86\Debug\ForCounter.ForCounter.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ForCounter\obj\x86\Debug\ForCounter.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ForCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ForCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ForCounter\obj\x86\Debug\ForCounter.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ForCounter\obj\x86\Debug\ForCounter.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ForCounter\obj\x86\Debug\ForCounter.pdb
+C:\books\2010\VB2010HTP\examples\ch05\fig05_01\ForCounter\ForCounter\obj\x86\Debug\ForCounter.exe
+C:\books\2010\VB2010HTP\examples\ch05\fig05_01\ForCounter\ForCounter\obj\x86\Debug\ForCounter.xml
+C:\books\2010\VB2010HTP\examples\ch05\fig05_01\ForCounter\ForCounter\obj\x86\Debug\ForCounter.pdb
+C:\books\2012\VB2012HTP\examples\ch05\fig05_01\ForCounter\ForCounter\obj\x86\Debug\ForCounter.exe
+C:\books\2012\VB2012HTP\examples\ch05\fig05_01\ForCounter\ForCounter\obj\x86\Debug\ForCounter.xml
+C:\books\2012\VB2012HTP\examples\ch05\fig05_01\ForCounter\ForCounter\obj\x86\Debug\ForCounter.pdb
+C:\books\2012\VB2012HTP\examples\ch05\fig05_01\ForCounter\ForCounter\bin\Debug\ForCounter.exe
+C:\books\2012\VB2012HTP\examples\ch05\fig05_01\ForCounter\ForCounter\bin\Debug\ForCounter.pdb
+C:\books\2012\VB2012HTP\examples\ch05\fig05_01\ForCounter\ForCounter\bin\Debug\ForCounter.xml
+C:\books\2012\VB2012HTP\examples\ch05\fig05_01\ForCounter\ForCounter\obj\x86\Debug\ForCounter.ForCounter.resources
+C:\books\2012\VB2012HTP\examples\ch05\fig05_01\ForCounter\ForCounter\obj\x86\Debug\ForCounter.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch05\fig05_01\ForCounter\ForCounter\obj\x86\Debug\ForCounter.vbproj.GenerateResource.Cache

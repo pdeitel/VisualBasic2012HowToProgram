@@ -1,0 +1,34 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DiceStatistics\bin\Debug\DiceStatistics.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DiceStatistics\bin\Debug\DiceStatistics.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DiceStatistics\bin\Debug\DiceStatistics.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DiceStatistics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DiceStatistics\obj\x86\Debug\DiceStatistics.DiceStatistics.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DiceStatistics\obj\x86\Debug\DiceStatistics.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DiceStatistics\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DiceStatistics\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DiceStatistics\obj\x86\Debug\DiceStatistics.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DiceStatistics\obj\x86\Debug\DiceStatistics.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\DiceStatistics\obj\x86\Debug\DiceStatistics.pdb
+C:\books\2010\VB2010HTP\examples\ch06\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.exe
+C:\books\2010\VB2010HTP\examples\ch06\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.xml
+C:\books\2010\VB2010HTP\examples\ch06\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.pdb
+C:\books\2010\VB2010HTP\examples\ch06\DiceStatistics\DiceStatistics\bin\Debug\DiceStatistics.exe
+C:\books\2010\VB2010HTP\examples\ch06\DiceStatistics\DiceStatistics\bin\Debug\DiceStatistics.pdb
+C:\books\2010\VB2010HTP\examples\ch06\DiceStatistics\DiceStatistics\bin\Debug\DiceStatistics.xml
+C:\books\2010\VB2010HTP\examples\ch06\DiceStatistics\DiceStatistics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\books\2010\VB2010HTP\examples\ch06\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.DiceStatistics.resources
+C:\books\2010\VB2010HTP\examples\ch06\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.Resources.resources
+C:\books\2010\VB2010HTP\examples\ch06\DiceStatistics\DiceStatistics\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\books\2010\VB2010HTP\examples\ch06\DiceStatistics\DiceStatistics\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\books\2010\VB2010HTP\examples\ch06\fig06_14\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.exe
+C:\books\2010\VB2010HTP\examples\ch06\fig06_14\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.xml
+C:\books\2010\VB2010HTP\examples\ch06\fig06_14\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.pdb
+C:\books\2012\VB2012HTP\examples\ch06\fig06_14\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.exe
+C:\books\2012\VB2012HTP\examples\ch06\fig06_14\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.xml
+C:\books\2012\VB2012HTP\examples\ch06\fig06_14\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.pdb
+C:\books\2012\VB2012HTP\examples\ch06\fig06_14\DiceStatistics\DiceStatistics\bin\Debug\DiceStatistics.exe
+C:\books\2012\VB2012HTP\examples\ch06\fig06_14\DiceStatistics\DiceStatistics\bin\Debug\DiceStatistics.pdb
+C:\books\2012\VB2012HTP\examples\ch06\fig06_14\DiceStatistics\DiceStatistics\bin\Debug\DiceStatistics.xml
+C:\books\2012\VB2012HTP\examples\ch06\fig06_14\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.DiceStatistics.resources
+C:\books\2012\VB2012HTP\examples\ch06\fig06_14\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch06\fig06_14\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.vbproj.GenerateResource.Cache

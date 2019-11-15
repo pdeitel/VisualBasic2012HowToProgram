@@ -1,0 +1,23 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SiblingSurvey\bin\Debug\SiblingSurvey.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SiblingSurvey\bin\Debug\SiblingSurvey.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SiblingSurvey\bin\Debug\SiblingSurvey.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SiblingSurvey\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SiblingSurvey\obj\x86\Debug\SiblingSurvey.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SiblingSurvey\obj\x86\Debug\SiblingSurvey.SiblingSurvey.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SiblingSurvey\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SiblingSurvey\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SiblingSurvey\obj\x86\Debug\SiblingSurvey.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SiblingSurvey\obj\x86\Debug\SiblingSurvey.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SiblingSurvey\obj\x86\Debug\SiblingSurvey.pdb
+C:\books\2010\VB2010HTP\examples\ch05\Debugging\SiblingSurvey\SiblingSurvey\obj\x86\Debug\SiblingSurvey.exe
+C:\books\2010\VB2010HTP\examples\ch05\Debugging\SiblingSurvey\SiblingSurvey\obj\x86\Debug\SiblingSurvey.xml
+C:\books\2010\VB2010HTP\examples\ch05\Debugging\SiblingSurvey\SiblingSurvey\obj\x86\Debug\SiblingSurvey.pdb
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\SiblingSurvey\SiblingSurvey\obj\x86\Debug\SiblingSurvey.exe
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\SiblingSurvey\SiblingSurvey\obj\x86\Debug\SiblingSurvey.xml
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\SiblingSurvey\SiblingSurvey\obj\x86\Debug\SiblingSurvey.pdb
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\SiblingSurvey\SiblingSurvey\bin\Debug\SiblingSurvey.exe
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\SiblingSurvey\SiblingSurvey\bin\Debug\SiblingSurvey.pdb
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\SiblingSurvey\SiblingSurvey\bin\Debug\SiblingSurvey.xml
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\SiblingSurvey\SiblingSurvey\obj\x86\Debug\SiblingSurvey.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\SiblingSurvey\SiblingSurvey\obj\x86\Debug\SiblingSurvey.SiblingSurvey.resources
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\SiblingSurvey\SiblingSurvey\obj\x86\Debug\SiblingSurvey.vbproj.GenerateResource.Cache

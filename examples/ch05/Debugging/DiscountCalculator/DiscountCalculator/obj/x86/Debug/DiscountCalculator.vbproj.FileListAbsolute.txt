@@ -1,0 +1,9 @@
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\DiscountCalculator\DiscountCalculator\bin\Debug\DiscountCalculator.exe
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\DiscountCalculator\DiscountCalculator\bin\Debug\DiscountCalculator.pdb
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\DiscountCalculator\DiscountCalculator\bin\Debug\DiscountCalculator.xml
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\DiscountCalculator\DiscountCalculator\obj\x86\Debug\DiscountCalculator.DiscountCalculator.resources
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\DiscountCalculator\DiscountCalculator\obj\x86\Debug\DiscountCalculator.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\DiscountCalculator\DiscountCalculator\obj\x86\Debug\DiscountCalculator.vbproj.GenerateResource.Cache
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\DiscountCalculator\DiscountCalculator\obj\x86\Debug\DiscountCalculator.exe
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\DiscountCalculator\DiscountCalculator\obj\x86\Debug\DiscountCalculator.xml
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\DiscountCalculator\DiscountCalculator\obj\x86\Debug\DiscountCalculator.pdb

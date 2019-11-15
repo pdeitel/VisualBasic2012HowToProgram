@@ -1,0 +1,1 @@
+The BankLibrary folder contains the files in Figures 18.7, 18.8 and 18.13. All of these are compiled into the BankLibrary.dll file, which is used by the programs in Figures 18.9, 18.11, 18.12, 18.14 and 18.15.

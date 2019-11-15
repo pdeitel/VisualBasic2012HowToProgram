@@ -1,0 +1,17 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SavingsCalculator\bin\Debug\SavingsCalculator.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SavingsCalculator\bin\Debug\SavingsCalculator.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SavingsCalculator\bin\Debug\SavingsCalculator.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SavingsCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SavingsCalculator\obj\x86\Debug\SavingsCalculator.SavingsCalculatorForm.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SavingsCalculator\obj\x86\Debug\SavingsCalculator.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SavingsCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SavingsCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SavingsCalculator\obj\x86\Debug\SavingsCalculator.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SavingsCalculator\obj\x86\Debug\SavingsCalculator.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SavingsCalculator\obj\x86\Debug\SavingsCalculator.pdb
+C:\books\2010\VB2010HTP\examples\ch05\Debugging\SavingsCalculator\SavingsCalculator\obj\x86\Debug\SavingsCalculator.exe
+C:\books\2010\VB2010HTP\examples\ch05\Debugging\SavingsCalculator\SavingsCalculator\obj\x86\Debug\SavingsCalculator.xml
+C:\books\2010\VB2010HTP\examples\ch05\Debugging\SavingsCalculator\SavingsCalculator\obj\x86\Debug\SavingsCalculator.pdb
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\SavingsCalculator\SavingsCalculator\obj\x86\Debug\SavingsCalculator.SavingsCalculator.resources
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\SavingsCalculator\SavingsCalculator\obj\x86\Debug\SavingsCalculator.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\SavingsCalculator\SavingsCalculator\obj\x86\Debug\SavingsCalculator.vbproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\books\2012\VB2012HTP\examples\ch03\fig03_02\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.exe.config
+C:\books\2012\VB2012HTP\examples\ch03\fig03_02\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.exe
+C:\books\2012\VB2012HTP\examples\ch03\fig03_02\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.pdb
+C:\books\2012\VB2012HTP\examples\ch03\fig03_02\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.xml
+C:\books\2012\VB2012HTP\examples\ch03\fig03_02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.Form1.resources
+C:\books\2012\VB2012HTP\examples\ch03\fig03_02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch03\fig03_02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.vbproj.GenerateResource.Cache
+C:\books\2012\VB2012HTP\examples\ch03\fig03_02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.exe
+C:\books\2012\VB2012HTP\examples\ch03\fig03_02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.xml
+C:\books\2012\VB2012HTP\examples\ch03\fig03_02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.pdb

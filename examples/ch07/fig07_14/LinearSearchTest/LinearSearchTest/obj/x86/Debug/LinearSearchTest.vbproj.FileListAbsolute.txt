@@ -1,0 +1,23 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\LinearSearchTest\bin\Debug\LinearSearchTest.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\LinearSearchTest\bin\Debug\LinearSearchTest.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\LinearSearchTest\bin\Debug\LinearSearchTest.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\LinearSearchTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\LinearSearchTest\obj\x86\Debug\LinearSearchTest.LinearSearchTest.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\LinearSearchTest\obj\x86\Debug\LinearSearchTest.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\LinearSearchTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\LinearSearchTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\LinearSearchTest\obj\x86\Debug\LinearSearchTest.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\LinearSearchTest\obj\x86\Debug\LinearSearchTest.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\LinearSearchTest\obj\x86\Debug\LinearSearchTest.pdb
+C:\books\2010\VB2010HTP\examples\ch07\LinearSearchTest\LinearSearchTest\obj\x86\Debug\LinearSearchTest.exe
+C:\books\2010\VB2010HTP\examples\ch07\LinearSearchTest\LinearSearchTest\obj\x86\Debug\LinearSearchTest.xml
+C:\books\2010\VB2010HTP\examples\ch07\LinearSearchTest\LinearSearchTest\obj\x86\Debug\LinearSearchTest.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_14\LinearSearchTest\LinearSearchTest\obj\x86\Debug\LinearSearchTest.exe
+C:\books\2012\VB2012HTP\examples\ch07\fig07_14\LinearSearchTest\LinearSearchTest\obj\x86\Debug\LinearSearchTest.xml
+C:\books\2012\VB2012HTP\examples\ch07\fig07_14\LinearSearchTest\LinearSearchTest\obj\x86\Debug\LinearSearchTest.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_14\LinearSearchTest\LinearSearchTest\bin\Debug\LinearSearchTest.exe
+C:\books\2012\VB2012HTP\examples\ch07\fig07_14\LinearSearchTest\LinearSearchTest\bin\Debug\LinearSearchTest.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_14\LinearSearchTest\LinearSearchTest\bin\Debug\LinearSearchTest.xml
+C:\books\2012\VB2012HTP\examples\ch07\fig07_14\LinearSearchTest\LinearSearchTest\obj\x86\Debug\LinearSearchTest.LinearSearchTest.resources
+C:\books\2012\VB2012HTP\examples\ch07\fig07_14\LinearSearchTest\LinearSearchTest\obj\x86\Debug\LinearSearchTest.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch07\fig07_14\LinearSearchTest\LinearSearchTest\obj\x86\Debug\LinearSearchTest.vbproj.GenerateResource.Cache

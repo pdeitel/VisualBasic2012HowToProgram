@@ -1,0 +1,95 @@
+﻿' Fig 18.5: FileTest.vb
+' Testing classes File and Directory.
+Imports System.IO
+
+' displays contents of files and directories
+Public Class FileTest
+   '  invoked when user presses key
+   Private Sub inputTextBox_KeyDown(sender As Object,
+      e As KeyEventArgs) Handles inputTextBox.KeyDown
+      ' determine whether user pressed Enter key
+      If e.KeyCode = Keys.Enter Then
+         Dim fileName As String ' name of file or directory
+
+         ' get user-specified file or directory
+         fileName = inputTextBox.Text
+
+         ' determine whether fileName is a file
+         If File.Exists(fileName) Then
+            ' get file's creation date, modification date, etc.
+            outputTextBox.Text = GetInformation(fileName)
+
+            ' display file contents through StreamReader
+            Try
+               ' obtain reader and file contents
+               Dim stream As New StreamReader(fileName)
+               outputTextBox.Text &= stream.ReadToEnd()
+               stream.Close() ' close file
+               stream.Dispose() ' release file resources back to system
+            Catch ex As IOException
+               MessageBox.Show("Error reading from file", "File Error",
+                  MessageBoxButtons.OK, MessageBoxIcon.Error)
+            End Try
+            ' determine whether fileName is a directory
+         ElseIf Directory.Exists(fileName) Then
+            Dim directoryList() As String ' array for directories
+
+            ' get directory's creation date, modification date, etc.
+            outputTextBox.Text = GetInformation(fileName)
+
+            ' obtain directory list of specified directory
+            directoryList = Directory.GetDirectories(fileName)
+
+            outputTextBox.Text &= vbCrLf & vbCrLf &
+               "Directory contents:" & vbCrLf
+
+            ' output directoryList contents
+            For Each directoryName In directoryList
+               outputTextBox.Text &= directoryName & vbCrLf
+            Next
+         Else
+            ' notify user that neither file nor directory exists
+            MessageBox.Show(inputTextBox.Text & " does not exist",
+               "File Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+         End If
+      End If
+   End Sub ' inputTextBox_KeyDown
+
+   ' get information on file or directory
+   Private Function GetInformation(fileName As String) As String
+      Dim information As String
+
+      ' output that file or directory exists
+      information = fileName & " exists" & vbCrLf & vbCrLf
+
+      ' output when file or directory was created
+      information &= "Created: " &
+         File.GetCreationTime(fileName) & vbCrLf
+
+      ' output when file or directory was last modified
+      information &= "Last modified: " &
+         File.GetLastWriteTime(fileName) & vbCrLf
+
+      ' output when file or directory was last accessed
+      information &= "Last accessed: " &
+         File.GetLastAccessTime(fileName) & vbCrLf & vbCrLf
+
+      Return information
+   End Function ' GetInformation
+End Class ' FileTest
+
+
+'**************************************************************************
+'* (C) Copyright 1992-2014 by Deitel & Associates, Inc. and               *
+'* Pearson Education, Inc. All Rights Reserved.                           *
+'*                                                                        *
+'* DISCLAIMER: The authors and publisher of this book have used their     *
+'* best efforts in preparing the book. These efforts include the          *
+'* development, research, and testing of the theories and programs        *
+'* to determine their effectiveness. The authors and publisher make       *
+'* no warranty of any kind, expressed or implied, with regard to these    *
+'* programs or to the documentation contained in these books. The authors *
+'* and publisher shall not be liable in any event for incidental or       *
+'* consequential damages in connection with, or arising out of, the       *
+'* furnishing, performance, or use of these programs.                     *
+'**************************************************************************

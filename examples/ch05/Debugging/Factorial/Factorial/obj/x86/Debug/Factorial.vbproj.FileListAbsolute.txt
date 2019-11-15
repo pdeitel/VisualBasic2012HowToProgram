@@ -1,0 +1,23 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Factorial\bin\Debug\Factorial.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Factorial\bin\Debug\Factorial.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\Factorial.Factorial.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\Factorial.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\Factorial.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\Factorial.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\Factorial\obj\x86\Debug\Factorial.pdb
+C:\books\2010\VB2010HTP\examples\ch05\Debugging\Factorial\Factorial\obj\x86\Debug\Factorial.exe
+C:\books\2010\VB2010HTP\examples\ch05\Debugging\Factorial\Factorial\obj\x86\Debug\Factorial.xml
+C:\books\2010\VB2010HTP\examples\ch05\Debugging\Factorial\Factorial\obj\x86\Debug\Factorial.pdb
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\Factorial\Factorial\obj\x86\Debug\Factorial.exe
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\Factorial\Factorial\obj\x86\Debug\Factorial.xml
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\Factorial\Factorial\obj\x86\Debug\Factorial.pdb
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\Factorial\Factorial\bin\Debug\Factorial.xml
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\Factorial\Factorial\obj\x86\Debug\Factorial.Factorial.resources
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\Factorial\Factorial\obj\x86\Debug\Factorial.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch05\Debugging\Factorial\Factorial\obj\x86\Debug\Factorial.vbproj.GenerateResource.Cache

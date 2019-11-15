@@ -1,0 +1,9 @@
+C:\books\2012\VB2012HTP\examples\ch04\ex04_16\OddNumbers\OddNumbers\bin\Debug\OddNumbers.exe
+C:\books\2012\VB2012HTP\examples\ch04\ex04_16\OddNumbers\OddNumbers\bin\Debug\OddNumbers.pdb
+C:\books\2012\VB2012HTP\examples\ch04\ex04_16\OddNumbers\OddNumbers\bin\Debug\OddNumbers.xml
+C:\books\2012\VB2012HTP\examples\ch04\ex04_16\OddNumbers\OddNumbers\obj\x86\Debug\OddNumbers.OddNumbers.resources
+C:\books\2012\VB2012HTP\examples\ch04\ex04_16\OddNumbers\OddNumbers\obj\x86\Debug\OddNumbers.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch04\ex04_16\OddNumbers\OddNumbers\obj\x86\Debug\OddNumbers.vbproj.GenerateResource.Cache
+C:\books\2012\VB2012HTP\examples\ch04\ex04_16\OddNumbers\OddNumbers\obj\x86\Debug\OddNumbers.exe
+C:\books\2012\VB2012HTP\examples\ch04\ex04_16\OddNumbers\OddNumbers\obj\x86\Debug\OddNumbers.xml
+C:\books\2012\VB2012HTP\examples\ch04\ex04_16\OddNumbers\OddNumbers\obj\x86\Debug\OddNumbers.pdb

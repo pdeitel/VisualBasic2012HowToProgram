@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "InitializeArrays", "InitializeArrays\InitializeArrays.vbproj", "{2F7C5640-DB14-4E7A-81CA-2FFDEBC7B38F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F7C5640-DB14-4E7A-81CA-2FFDEBC7B38F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2F7C5640-DB14-4E7A-81CA-2FFDEBC7B38F}.Debug|Any CPU.Build.0 = Debug|x86
+		{2F7C5640-DB14-4E7A-81CA-2FFDEBC7B38F}.Release|Any CPU.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

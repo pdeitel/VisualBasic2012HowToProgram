@@ -1,0 +1,26 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\RectangularArray\bin\Debug\RectangularArray.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\RectangularArray\bin\Debug\RectangularArray.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\RectangularArray\bin\Debug\RectangularArray.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\RectangularArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\RectangularArray\obj\x86\Debug\RectangularArray.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\RectangularArray\obj\x86\Debug\RectangularArray.RectangularArray.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\RectangularArray\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\RectangularArray\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\RectangularArray\obj\x86\Debug\RectangularArray.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\RectangularArray\obj\x86\Debug\RectangularArray.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\RectangularArray\obj\x86\Debug\RectangularArray.pdb
+C:\books\2010\VB2010HTP\examples\ch07\RectangularArray\RectangularArray\obj\x86\Debug\RectangularArray.exe
+C:\books\2010\VB2010HTP\examples\ch07\RectangularArray\RectangularArray\obj\x86\Debug\RectangularArray.xml
+C:\books\2010\VB2010HTP\examples\ch07\RectangularArray\RectangularArray\obj\x86\Debug\RectangularArray.pdb
+C:\books\2010\VB2010HTP\examples\ch07\fig07_17\RectangularArray\RectangularArray\obj\x86\Debug\RectangularArray.exe
+C:\books\2010\VB2010HTP\examples\ch07\fig07_17\RectangularArray\RectangularArray\obj\x86\Debug\RectangularArray.xml
+C:\books\2010\VB2010HTP\examples\ch07\fig07_17\RectangularArray\RectangularArray\obj\x86\Debug\RectangularArray.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_17\RectangularArray\RectangularArray\obj\x86\Debug\RectangularArray.exe
+C:\books\2012\VB2012HTP\examples\ch07\fig07_17\RectangularArray\RectangularArray\obj\x86\Debug\RectangularArray.xml
+C:\books\2012\VB2012HTP\examples\ch07\fig07_17\RectangularArray\RectangularArray\obj\x86\Debug\RectangularArray.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_17\RectangularArray\RectangularArray\bin\Debug\RectangularArray.exe
+C:\books\2012\VB2012HTP\examples\ch07\fig07_17\RectangularArray\RectangularArray\bin\Debug\RectangularArray.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_17\RectangularArray\RectangularArray\bin\Debug\RectangularArray.xml
+C:\books\2012\VB2012HTP\examples\ch07\fig07_17\RectangularArray\RectangularArray\obj\x86\Debug\RectangularArray.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch07\fig07_17\RectangularArray\RectangularArray\obj\x86\Debug\RectangularArray.RectangularArray.resources
+C:\books\2012\VB2012HTP\examples\ch07\fig07_17\RectangularArray\RectangularArray\obj\x86\Debug\RectangularArray.vbproj.GenerateResource.Cache

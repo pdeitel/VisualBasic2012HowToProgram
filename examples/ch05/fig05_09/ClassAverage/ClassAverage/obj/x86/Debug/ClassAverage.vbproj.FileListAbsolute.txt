@@ -1,0 +1,59 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ClassAverage\bin\Debug\ClassAverage.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ClassAverage\bin\Debug\ClassAverage.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ClassAverage\bin\Debug\ClassAverage.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ClassAverage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ClassAverage\obj\x86\Debug\ClassAverage.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ClassAverage\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ClassAverage\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ClassAverage\obj\x86\Debug\ClassAverage.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ClassAverage\obj\x86\Debug\ClassAverage.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ClassAverage\obj\x86\Debug\ClassAverage.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ClassAverage\obj\x86\Debug\ClassAverage.ClassAverage.resources
+C:\books\2010\VB2010HTP\examples\ch04\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.exe
+C:\books\2010\VB2010HTP\examples\ch04\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.xml
+C:\books\2010\VB2010HTP\examples\ch04\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.pdb
+C:\books\2010\VB2010HTP\examples\ch04\ClassAveCounter\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.exe
+C:\books\2010\VB2010HTP\examples\ch04\ClassAveCounter\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.xml
+C:\books\2010\VB2010HTP\examples\ch04\ClassAveCounter\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.pdb
+C:\books\2010\VB2010HTP\examples\ch04\ClassAveCounter\ClassAverage\ClassAverage\bin\Debug\ClassAverage.exe
+C:\books\2010\VB2010HTP\examples\ch04\ClassAveCounter\ClassAverage\ClassAverage\bin\Debug\ClassAverage.pdb
+C:\books\2010\VB2010HTP\examples\ch04\ClassAveCounter\ClassAverage\ClassAverage\bin\Debug\ClassAverage.xml
+C:\books\2010\VB2010HTP\examples\ch04\ClassAveCounter\ClassAverage\ClassAverage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\books\2010\VB2010HTP\examples\ch04\ClassAveCounter\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.ClassAverage.resources
+C:\books\2010\VB2010HTP\examples\ch04\ClassAveCounter\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.Resources.resources
+C:\books\2010\VB2010HTP\examples\ch04\ClassAveCounter\ClassAverage\ClassAverage\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\books\2010\VB2010HTP\examples\ch04\ClassAveCounter\ClassAverage\ClassAverage\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\books\2010\VB2010HTP\examples\ch04\fig04_09\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.exe
+C:\books\2010\VB2010HTP\examples\ch04\fig04_09\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.xml
+C:\books\2010\VB2010HTP\examples\ch04\fig04_09\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.pdb
+C:\books\2010\VB2010HTP\examples\ch04\fig04_09\ClassAverage\ClassAverage\bin\Debug\ClassAverage.exe
+C:\books\2010\VB2010HTP\examples\ch04\fig04_09\ClassAverage\ClassAverage\bin\Debug\ClassAverage.pdb
+C:\books\2010\VB2010HTP\examples\ch04\fig04_09\ClassAverage\ClassAverage\bin\Debug\ClassAverage.xml
+C:\books\2010\VB2010HTP\examples\ch04\fig04_09\ClassAverage\ClassAverage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\books\2010\VB2010HTP\examples\ch04\fig04_09\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.ClassAverage.resources
+C:\books\2010\VB2010HTP\examples\ch04\fig04_09\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.Resources.resources
+C:\books\2010\VB2010HTP\examples\ch04\fig04_09\ClassAverage\ClassAverage\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\books\2010\VB2010HTP\examples\ch04\fig04_09\ClassAverage\ClassAverage\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\books\2010\VB2010HTP\examples\ch04\fig04_12\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.exe
+C:\books\2010\VB2010HTP\examples\ch04\fig04_12\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.xml
+C:\books\2010\VB2010HTP\examples\ch04\fig04_12\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.pdb
+C:\books\2010\VB2010HTP\examples\ch05\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.exe
+C:\books\2010\VB2010HTP\examples\ch05\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.xml
+C:\books\2010\VB2010HTP\examples\ch05\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.pdb
+C:\books\2010\VB2010HTP\examples\ch05\ClassAverage\ClassAverage\bin\Debug\ClassAverage.exe
+C:\books\2010\VB2010HTP\examples\ch05\ClassAverage\ClassAverage\bin\Debug\ClassAverage.pdb
+C:\books\2010\VB2010HTP\examples\ch05\ClassAverage\ClassAverage\bin\Debug\ClassAverage.xml
+C:\books\2010\VB2010HTP\examples\ch05\ClassAverage\ClassAverage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\books\2010\VB2010HTP\examples\ch05\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.ClassAverage.resources
+C:\books\2010\VB2010HTP\examples\ch05\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.Resources.resources
+C:\books\2010\VB2010HTP\examples\ch05\ClassAverage\ClassAverage\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\books\2010\VB2010HTP\examples\ch05\ClassAverage\ClassAverage\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\books\2012\VB2012HTP\examples\ch05\fig05_09\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.exe
+C:\books\2012\VB2012HTP\examples\ch05\fig05_09\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.xml
+C:\books\2012\VB2012HTP\examples\ch05\fig05_09\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.pdb
+C:\books\2012\VB2012HTP\examples\ch05\fig05_09\ClassAverage\ClassAverage\bin\Debug\ClassAverage.exe
+C:\books\2012\VB2012HTP\examples\ch05\fig05_09\ClassAverage\ClassAverage\bin\Debug\ClassAverage.pdb
+C:\books\2012\VB2012HTP\examples\ch05\fig05_09\ClassAverage\ClassAverage\bin\Debug\ClassAverage.xml
+C:\books\2012\VB2012HTP\examples\ch05\fig05_09\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.ClassAverage.resources
+C:\books\2012\VB2012HTP\examples\ch05\fig05_09\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch05\fig05_09\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.vbproj.GenerateResource.Cache

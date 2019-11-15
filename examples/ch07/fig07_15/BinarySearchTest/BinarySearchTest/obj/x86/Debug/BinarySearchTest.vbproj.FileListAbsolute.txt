@@ -1,0 +1,31 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\BinarySearchTest\bin\Debug\BinarySearchTest.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\BinarySearchTest\bin\Debug\BinarySearchTest.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\BinarySearchTest\bin\Debug\BinarySearchTest.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\BinarySearchTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\BinarySearchTest\obj\x86\Debug\BinarySearchTest.BinarySearchTest.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\BinarySearchTest\obj\x86\Debug\BinarySearchTest.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\BinarySearchTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\BinarySearchTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\BinarySearchTest\obj\x86\Debug\BinarySearchTest.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\BinarySearchTest\obj\x86\Debug\BinarySearchTest.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\BinarySearchTest\obj\x86\Debug\BinarySearchTest.pdb
+C:\books\2010\VB2010HTP\examples\ch07\BinarySearchTest\BinarySearchTest\obj\x86\Debug\BinarySearchTest.exe
+C:\books\2010\VB2010HTP\examples\ch07\BinarySearchTest\BinarySearchTest\obj\x86\Debug\BinarySearchTest.xml
+C:\books\2010\VB2010HTP\examples\ch07\BinarySearchTest\BinarySearchTest\obj\x86\Debug\BinarySearchTest.pdb
+C:\books\2010\VB2010HTP\examples\ch07\BinarySearchTest\BinarySearchTest\bin\Debug\BinarySearchTest.exe
+C:\books\2010\VB2010HTP\examples\ch07\BinarySearchTest\BinarySearchTest\bin\Debug\BinarySearchTest.pdb
+C:\books\2010\VB2010HTP\examples\ch07\BinarySearchTest\BinarySearchTest\bin\Debug\BinarySearchTest.xml
+C:\books\2010\VB2010HTP\examples\ch07\BinarySearchTest\BinarySearchTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\books\2010\VB2010HTP\examples\ch07\BinarySearchTest\BinarySearchTest\obj\x86\Debug\BinarySearchTest.BinarySearchTest.resources
+C:\books\2010\VB2010HTP\examples\ch07\BinarySearchTest\BinarySearchTest\obj\x86\Debug\BinarySearchTest.Resources.resources
+C:\books\2010\VB2010HTP\examples\ch07\BinarySearchTest\BinarySearchTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\books\2010\VB2010HTP\examples\ch07\BinarySearchTest\BinarySearchTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\books\2012\VB2012HTP\examples\ch07\fig07_15\BinarySearchTest\BinarySearchTest\obj\x86\Debug\BinarySearchTest.exe
+C:\books\2012\VB2012HTP\examples\ch07\fig07_15\BinarySearchTest\BinarySearchTest\obj\x86\Debug\BinarySearchTest.xml
+C:\books\2012\VB2012HTP\examples\ch07\fig07_15\BinarySearchTest\BinarySearchTest\obj\x86\Debug\BinarySearchTest.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_15\BinarySearchTest\BinarySearchTest\bin\Debug\BinarySearchTest.exe
+C:\books\2012\VB2012HTP\examples\ch07\fig07_15\BinarySearchTest\BinarySearchTest\bin\Debug\BinarySearchTest.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_15\BinarySearchTest\BinarySearchTest\bin\Debug\BinarySearchTest.xml
+C:\books\2012\VB2012HTP\examples\ch07\fig07_15\BinarySearchTest\BinarySearchTest\obj\x86\Debug\BinarySearchTest.BinarySearchTest.resources
+C:\books\2012\VB2012HTP\examples\ch07\fig07_15\BinarySearchTest\BinarySearchTest\obj\x86\Debug\BinarySearchTest.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch07\fig07_15\BinarySearchTest\BinarySearchTest\obj\x86\Debug\BinarySearchTest.vbproj.GenerateResource.Cache

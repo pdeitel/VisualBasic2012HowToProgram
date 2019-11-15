@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DateTimePickerDemo", "DateTimePickerDemo\DateTimePickerDemo.vbproj", "{7F3826E7-C182-4C77-9EB7-823A4B881A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F3826E7-C182-4C77-9EB7-823A4B881A2C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{7F3826E7-C182-4C77-9EB7-823A4B881A2C}.Debug|Any CPU.Build.0 = Debug|x86
+		{7F3826E7-C182-4C77-9EB7-823A4B881A2C}.Release|Any CPU.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

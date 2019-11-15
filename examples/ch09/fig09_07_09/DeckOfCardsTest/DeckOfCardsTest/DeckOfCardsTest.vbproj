@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C2350A96-C10B-4A07-9220-918174B52191}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>DeckOfCardsTest.My.MyApplication</StartupObject>
+    <RootNamespace>DeckOfCardsTest</RootNamespace>
+    <AssemblyName>DeckOfCardsTest</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>On</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DeckOfCardsTest.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DeckOfCardsTest.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Card.vb" />
+    <Compile Include="DeckOfCards.vb" />
+    <Compile Include="DeckOfCardsTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeckOfCardsTest.Designer.vb">
+      <DependentUpon>DeckOfCardsTest.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DeckOfCardsTest.resx">
+      <DependentUpon>DeckOfCardsTest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AceofClubs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AceofDiamonds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AceofHearts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AceofSpades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cardback.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EightofClubs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EightofDiamonds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EightofHearts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EightofSpades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FiveofClubs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FiveofDiamonds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FiveofHearts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FiveofSpades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FourofClubs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FourofDiamonds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FourofHearts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FourofSpades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JackofClubs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JackofDiamonds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JackofHearts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JackofSpades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KingofClubs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KingofDiamonds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KingofHearts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KingofSpades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NineofClubs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NineofDiamonds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NineofHearts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NineofSpades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QueenofClubs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QueenofDiamonds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QueenofHearts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QueenofSpades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SevenofClubs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SevenofDiamonds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SevenofHearts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SevenofSpades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SixofClubs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SixofDiamonds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SixofHearts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SixofSpades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TenofClubs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TenofDiamonds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TenofHearts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TenofSpades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThreeofClubs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThreeofDiamonds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThreeofHearts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThreeofSpades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwoofClubs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwoofDiamonds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwoofHearts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TwoofSpades.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

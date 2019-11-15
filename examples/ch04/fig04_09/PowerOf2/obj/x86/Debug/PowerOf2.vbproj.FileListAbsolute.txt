@@ -1,0 +1,9 @@
+C:\books\2012\VB2012HTP\examples\ch04\fig04_09\PowerOf2\bin\Debug\PowerOf2.exe
+C:\books\2012\VB2012HTP\examples\ch04\fig04_09\PowerOf2\bin\Debug\PowerOf2.pdb
+C:\books\2012\VB2012HTP\examples\ch04\fig04_09\PowerOf2\bin\Debug\PowerOf2.xml
+C:\books\2012\VB2012HTP\examples\ch04\fig04_09\PowerOf2\obj\x86\Debug\PowerOf2.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch04\fig04_09\PowerOf2\obj\x86\Debug\PowerOf2.PowerOf2.resources
+C:\books\2012\VB2012HTP\examples\ch04\fig04_09\PowerOf2\obj\x86\Debug\PowerOf2.vbproj.GenerateResource.Cache
+C:\books\2012\VB2012HTP\examples\ch04\fig04_09\PowerOf2\obj\x86\Debug\PowerOf2.exe
+C:\books\2012\VB2012HTP\examples\ch04\fig04_09\PowerOf2\obj\x86\Debug\PowerOf2.xml
+C:\books\2012\VB2012HTP\examples\ch04\fig04_09\PowerOf2\obj\x86\Debug\PowerOf2.pdb

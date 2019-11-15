@@ -1,0 +1,9 @@
+C:\books\2012\VB2012HTP\examples\ch04\Debugging\ClassAverage\ClassAverage\bin\Debug\ClassAverage.exe
+C:\books\2012\VB2012HTP\examples\ch04\Debugging\ClassAverage\ClassAverage\bin\Debug\ClassAverage.pdb
+C:\books\2012\VB2012HTP\examples\ch04\Debugging\ClassAverage\ClassAverage\bin\Debug\ClassAverage.xml
+C:\books\2012\VB2012HTP\examples\ch04\Debugging\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.ClassAverage.resources
+C:\books\2012\VB2012HTP\examples\ch04\Debugging\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch04\Debugging\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.vbproj.GenerateResource.Cache
+C:\books\2012\VB2012HTP\examples\ch04\Debugging\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.exe
+C:\books\2012\VB2012HTP\examples\ch04\Debugging\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.xml
+C:\books\2012\VB2012HTP\examples\ch04\Debugging\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.pdb

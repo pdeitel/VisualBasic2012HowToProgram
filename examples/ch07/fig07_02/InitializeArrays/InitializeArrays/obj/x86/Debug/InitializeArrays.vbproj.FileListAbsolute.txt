@@ -1,0 +1,26 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InitializeArrays\bin\Debug\InitializeArrays.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InitializeArrays\bin\Debug\InitializeArrays.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InitializeArrays\bin\Debug\InitializeArrays.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InitializeArrays\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InitializeArrays\obj\x86\Debug\InitializeArrays.InitalizeArrays.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InitializeArrays\obj\x86\Debug\InitializeArrays.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InitializeArrays\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InitializeArrays\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InitializeArrays\obj\x86\Debug\InitializeArrays.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InitializeArrays\obj\x86\Debug\InitializeArrays.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\InitializeArrays\obj\x86\Debug\InitializeArrays.pdb
+C:\books\2010\VB2010HTP\examples\ch07\InitializeArrays\InitializeArrays\obj\x86\Debug\InitializeArrays.exe
+C:\books\2010\VB2010HTP\examples\ch07\InitializeArrays\InitializeArrays\obj\x86\Debug\InitializeArrays.xml
+C:\books\2010\VB2010HTP\examples\ch07\InitializeArrays\InitializeArrays\obj\x86\Debug\InitializeArrays.pdb
+C:\books\2010\VB2010HTP\examples\ch07\fig07_02\InitializeArrays\InitializeArrays\obj\x86\Debug\InitializeArrays.exe
+C:\books\2010\VB2010HTP\examples\ch07\fig07_02\InitializeArrays\InitializeArrays\obj\x86\Debug\InitializeArrays.xml
+C:\books\2010\VB2010HTP\examples\ch07\fig07_02\InitializeArrays\InitializeArrays\obj\x86\Debug\InitializeArrays.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_02\InitializeArrays\InitializeArrays\obj\x86\Debug\InitializeArrays.exe
+C:\books\2012\VB2012HTP\examples\ch07\fig07_02\InitializeArrays\InitializeArrays\obj\x86\Debug\InitializeArrays.xml
+C:\books\2012\VB2012HTP\examples\ch07\fig07_02\InitializeArrays\InitializeArrays\obj\x86\Debug\InitializeArrays.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_02\InitializeArrays\InitializeArrays\bin\Debug\InitializeArrays.exe
+C:\books\2012\VB2012HTP\examples\ch07\fig07_02\InitializeArrays\InitializeArrays\bin\Debug\InitializeArrays.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_02\InitializeArrays\InitializeArrays\bin\Debug\InitializeArrays.xml
+C:\books\2012\VB2012HTP\examples\ch07\fig07_02\InitializeArrays\InitializeArrays\obj\x86\Debug\InitializeArrays.InitalizeArrays.resources
+C:\books\2012\VB2012HTP\examples\ch07\fig07_02\InitializeArrays\InitializeArrays\obj\x86\Debug\InitializeArrays.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch07\fig07_02\InitializeArrays\InitializeArrays\obj\x86\Debug\InitializeArrays.vbproj.GenerateResource.Cache

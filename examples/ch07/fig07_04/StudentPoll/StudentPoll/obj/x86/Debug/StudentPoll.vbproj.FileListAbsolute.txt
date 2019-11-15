@@ -1,0 +1,34 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\StudentPoll\bin\Debug\StudentPoll.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\StudentPoll\bin\Debug\StudentPoll.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\StudentPoll\bin\Debug\StudentPoll.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\StudentPoll\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\StudentPoll\obj\x86\Debug\StudentPoll.StudentPoll.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\StudentPoll\obj\x86\Debug\StudentPoll.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\StudentPoll\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\StudentPoll\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\StudentPoll\obj\x86\Debug\StudentPoll.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\StudentPoll\obj\x86\Debug\StudentPoll.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\StudentPoll\obj\x86\Debug\StudentPoll.pdb
+C:\books\2010\VB2010HTP\examples\ch07\StudentPoll\StudentPoll\obj\x86\Debug\StudentPoll.exe
+C:\books\2010\VB2010HTP\examples\ch07\StudentPoll\StudentPoll\obj\x86\Debug\StudentPoll.xml
+C:\books\2010\VB2010HTP\examples\ch07\StudentPoll\StudentPoll\obj\x86\Debug\StudentPoll.pdb
+C:\books\2010\VB2010HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\obj\x86\Debug\StudentPoll.exe
+C:\books\2010\VB2010HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\obj\x86\Debug\StudentPoll.xml
+C:\books\2010\VB2010HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\obj\x86\Debug\StudentPoll.pdb
+C:\books\2010\VB2010HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\bin\Debug\StudentPoll.exe
+C:\books\2010\VB2010HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\bin\Debug\StudentPoll.pdb
+C:\books\2010\VB2010HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\bin\Debug\StudentPoll.xml
+C:\books\2010\VB2010HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\books\2010\VB2010HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\obj\x86\Debug\StudentPoll.StudentPoll.resources
+C:\books\2010\VB2010HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\obj\x86\Debug\StudentPoll.Resources.resources
+C:\books\2010\VB2010HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\books\2010\VB2010HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\books\2012\VB2012HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\obj\x86\Debug\StudentPoll.xml
+C:\books\2012\VB2012HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\obj\x86\Debug\StudentPoll.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\bin\Debug\StudentPoll.exe
+C:\books\2012\VB2012HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\bin\Debug\StudentPoll.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\bin\Debug\StudentPoll.xml
+C:\books\2012\VB2012HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\obj\x86\Debug\StudentPoll.StudentPoll.resources
+C:\books\2012\VB2012HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\obj\x86\Debug\StudentPoll.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\obj\x86\Debug\StudentPoll.vbproj.GenerateResource.Cache
+C:\books\2012\VB2012HTP\examples\ch07\fig07_04\StudentPoll\StudentPoll\obj\x86\Debug\StudentPoll.exe

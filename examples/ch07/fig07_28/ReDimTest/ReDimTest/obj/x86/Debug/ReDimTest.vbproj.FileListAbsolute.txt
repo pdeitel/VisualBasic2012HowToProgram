@@ -1,0 +1,23 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ReDimTest\bin\Debug\ReDimTest.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ReDimTest\bin\Debug\ReDimTest.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ReDimTest\bin\Debug\ReDimTest.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ReDimTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ReDimTest\obj\x86\Debug\ReDimTest.ReDimTest.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ReDimTest\obj\x86\Debug\ReDimTest.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ReDimTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ReDimTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ReDimTest\obj\x86\Debug\ReDimTest.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ReDimTest\obj\x86\Debug\ReDimTest.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\ReDimTest\obj\x86\Debug\ReDimTest.pdb
+C:\books\2010\VB2010HTP\examples\ch07\ReDimTest\ReDimTest\obj\x86\Debug\ReDimTest.exe
+C:\books\2010\VB2010HTP\examples\ch07\ReDimTest\ReDimTest\obj\x86\Debug\ReDimTest.xml
+C:\books\2010\VB2010HTP\examples\ch07\ReDimTest\ReDimTest\obj\x86\Debug\ReDimTest.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_28\ReDimTest\ReDimTest\obj\x86\Debug\ReDimTest.exe
+C:\books\2012\VB2012HTP\examples\ch07\fig07_28\ReDimTest\ReDimTest\obj\x86\Debug\ReDimTest.xml
+C:\books\2012\VB2012HTP\examples\ch07\fig07_28\ReDimTest\ReDimTest\obj\x86\Debug\ReDimTest.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_28\ReDimTest\ReDimTest\bin\Debug\ReDimTest.exe
+C:\books\2012\VB2012HTP\examples\ch07\fig07_28\ReDimTest\ReDimTest\bin\Debug\ReDimTest.pdb
+C:\books\2012\VB2012HTP\examples\ch07\fig07_28\ReDimTest\ReDimTest\bin\Debug\ReDimTest.xml
+C:\books\2012\VB2012HTP\examples\ch07\fig07_28\ReDimTest\ReDimTest\obj\x86\Debug\ReDimTest.ReDimTest.resources
+C:\books\2012\VB2012HTP\examples\ch07\fig07_28\ReDimTest\ReDimTest\obj\x86\Debug\ReDimTest.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch07\fig07_28\ReDimTest\ReDimTest\obj\x86\Debug\ReDimTest.vbproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\books\2010\VB2010HTP\examples\ch07\GradeReport\GradeBook\bin\Release\GradeBook.exe
+C:\books\2010\VB2010HTP\examples\ch07\GradeReport\GradeBook\bin\Release\GradeBook.pdb
+C:\books\2010\VB2010HTP\examples\ch07\GradeReport\GradeBook\bin\Release\GradeBook.xml
+C:\books\2010\VB2010HTP\examples\ch07\GradeReport\GradeBook\obj\x86\Release\ResolveAssemblyReference.cache
+C:\books\2010\VB2010HTP\examples\ch07\GradeReport\GradeBook\obj\x86\Release\GradeBook.GradeReport.resources
+C:\books\2010\VB2010HTP\examples\ch07\GradeReport\GradeBook\obj\x86\Release\GradeBook.Resources.resources
+C:\books\2010\VB2010HTP\examples\ch07\GradeReport\GradeBook\obj\x86\Release\GenerateResource.read.1.tlog
+C:\books\2010\VB2010HTP\examples\ch07\GradeReport\GradeBook\obj\x86\Release\GenerateResource.write.1.tlog
+C:\books\2010\VB2010HTP\examples\ch07\GradeReport\GradeBook\obj\x86\Release\GradeBook.exe
+C:\books\2010\VB2010HTP\examples\ch07\GradeReport\GradeBook\obj\x86\Release\GradeBook.xml
+C:\books\2010\VB2010HTP\examples\ch07\GradeReport\GradeBook\obj\x86\Release\GradeBook.pdb

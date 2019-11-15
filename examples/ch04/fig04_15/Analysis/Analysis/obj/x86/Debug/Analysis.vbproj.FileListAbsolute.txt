@@ -1,0 +1,9 @@
+C:\books\2012\VB2012HTP\examples\ch04\fig04_15\Analysis\Analysis\bin\Debug\Analysis.exe
+C:\books\2012\VB2012HTP\examples\ch04\fig04_15\Analysis\Analysis\bin\Debug\Analysis.pdb
+C:\books\2012\VB2012HTP\examples\ch04\fig04_15\Analysis\Analysis\bin\Debug\Analysis.xml
+C:\books\2012\VB2012HTP\examples\ch04\fig04_15\Analysis\Analysis\obj\x86\Debug\Analysis.Analysis.resources
+C:\books\2012\VB2012HTP\examples\ch04\fig04_15\Analysis\Analysis\obj\x86\Debug\Analysis.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch04\fig04_15\Analysis\Analysis\obj\x86\Debug\Analysis.vbproj.GenerateResource.Cache
+C:\books\2012\VB2012HTP\examples\ch04\fig04_15\Analysis\Analysis\obj\x86\Debug\Analysis.exe
+C:\books\2012\VB2012HTP\examples\ch04\fig04_15\Analysis\Analysis\obj\x86\Debug\Analysis.xml
+C:\books\2012\VB2012HTP\examples\ch04\fig04_15\Analysis\Analysis\obj\x86\Debug\Analysis.pdb

@@ -1,0 +1,34 @@
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SquareOfCharacters\bin\Debug\SquareOfCharacters.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SquareOfCharacters\bin\Debug\SquareOfCharacters.pdb
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SquareOfCharacters\bin\Debug\SquareOfCharacters.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SquareOfCharacters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.Resources.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.SquareOfCharacters.resources
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SquareOfCharacters\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SquareOfCharacters\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.exe
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.xml
+C:\Users\Paul Deitel\AppData\Local\Temporary Projects\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.pdb
+C:\books\2010\VB2010HTP\examples\ch05\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.exe
+C:\books\2010\VB2010HTP\examples\ch05\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.xml
+C:\books\2010\VB2010HTP\examples\ch05\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.pdb
+C:\books\2010\VB2010HTP\examples\ch05\SquareOfCharacters\SquareOfCharacters\bin\Debug\SquareOfCharacters.exe
+C:\books\2010\VB2010HTP\examples\ch05\SquareOfCharacters\SquareOfCharacters\bin\Debug\SquareOfCharacters.pdb
+C:\books\2010\VB2010HTP\examples\ch05\SquareOfCharacters\SquareOfCharacters\bin\Debug\SquareOfCharacters.xml
+C:\books\2010\VB2010HTP\examples\ch05\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\books\2010\VB2010HTP\examples\ch05\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.Resources.resources
+C:\books\2010\VB2010HTP\examples\ch05\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.SquareOfCharacters.resources
+C:\books\2010\VB2010HTP\examples\ch05\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\books\2010\VB2010HTP\examples\ch05\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\books\2010\VB2010HTP\examples\ch05\fig05_08\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.exe
+C:\books\2010\VB2010HTP\examples\ch05\fig05_08\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.xml
+C:\books\2010\VB2010HTP\examples\ch05\fig05_08\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.pdb
+C:\books\2012\VB2012HTP\examples\ch05\fig05_08\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.exe
+C:\books\2012\VB2012HTP\examples\ch05\fig05_08\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.xml
+C:\books\2012\VB2012HTP\examples\ch05\fig05_08\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.pdb
+C:\books\2012\VB2012HTP\examples\ch05\fig05_08\SquareOfCharacters\SquareOfCharacters\bin\Debug\SquareOfCharacters.exe
+C:\books\2012\VB2012HTP\examples\ch05\fig05_08\SquareOfCharacters\SquareOfCharacters\bin\Debug\SquareOfCharacters.pdb
+C:\books\2012\VB2012HTP\examples\ch05\fig05_08\SquareOfCharacters\SquareOfCharacters\bin\Debug\SquareOfCharacters.xml
+C:\books\2012\VB2012HTP\examples\ch05\fig05_08\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.Resources.resources
+C:\books\2012\VB2012HTP\examples\ch05\fig05_08\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.SquareOfCharacters.resources
+C:\books\2012\VB2012HTP\examples\ch05\fig05_08\SquareOfCharacters\SquareOfCharacters\obj\x86\Debug\SquareOfCharacters.vbproj.GenerateResource.Cache

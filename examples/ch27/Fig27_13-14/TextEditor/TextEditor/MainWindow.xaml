@@ -1,0 +1,51 @@
+﻿<!-- Fig. 27.13: MainWindow.xaml -->
+<!-- Creating menus and toolbars, and using commands (XAML). -->
+<Window x:Class="MainWindow"
+   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+   Title="Text Editor" Height="300" Width="300">
+
+   <Window.CommandBindings> <!-- define command bindings -->
+      <!-- bind the Close command to handler -->
+      <CommandBinding Command="Close" Executed="closeCommand_Executed" />
+   </Window.CommandBindings>
+
+   <Grid> <!-- define the GUI -->
+      <Grid.RowDefinitions>
+         <RowDefinition Height="Auto" />
+         <RowDefinition Height="Auto" />
+         <RowDefinition Height="*" />
+      </Grid.RowDefinitions>
+
+      <Menu Grid.Row="0"> <!-- create the menu -->
+         <!-- map each menu item to corresponding command -->
+         <MenuItem Header="File">
+            <MenuItem Header="Exit" Command="Close" />
+         </MenuItem>
+         <MenuItem Header="Edit">
+            <MenuItem Header="Cut" Command="Cut" />
+            <MenuItem Header="Copy" Command="Copy" />
+            <MenuItem Header="Paste" Command="Paste" />
+            <Separator /> <!-- separates groups of menu items -->
+            <MenuItem Header="Bold" Command="ToggleBold" 
+               FontWeight="Bold" />
+            <MenuItem Header="Italic" Command="ToggleItalic" 
+               FontStyle="Italic" />
+         </MenuItem>
+      </Menu>
+
+      <ToolBar Grid.Row="1"> <!-- create the toolbar -->
+         <!-- map each toolbar item to corresponding command -->
+         <Button Command="Cut" Content="Cut"/>
+         <Button Command="Copy" Content="Copy"/>
+         <Button Command="Paste" Content="Paste"/>
+         <Separator /> <!-- separates groups of toolbar items -->
+         <Button FontWeight="Bold" Command="ToggleBold" Content="Bold"/>
+         <Button FontStyle="Italic" Command="ToggleItalic" 
+            Content="Italic"/>
+      </ToolBar>
+
+      <!-- display editable, formattable text -->
+      <RichTextBox Grid.Row="2" Margin="5" />
+   </Grid>
+</Window>

@@ -1,0 +1,182 @@
+﻿<!-- Fig. 21.10: MainPage.xaml -->
+<!-- TV GUI showing the versatility of Windows 8 customization. -->
+<Page
+   x:Class="TV.MainPage"
+   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+   xmlns:local="using:TV"
+   xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+   xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+   mc:Ignorable="d">
+
+   <Page.Resources>
+      <!-- define ControlTemplate for power CheckBox -->
+      <ControlTemplate x:Key="CheckBoxControlTemplate" 
+         TargetType="CheckBox">
+         <Grid>
+            <!-- CheckBox checked/unchecked appearance changes -->
+            <VisualStateManager.VisualStateGroups>
+               <VisualStateGroup x:Name="CheckStates">
+                  <VisualState x:Name="Checked">
+                     <Storyboard>
+                        <ObjectAnimationUsingKeyFrames 
+                           Storyboard.TargetProperty="Color" 
+                           Storyboard.TargetName="startColor">
+                           <DiscreteObjectKeyFrame KeyTime="0"
+                              Value="LimeGreen"/>
+                        </ObjectAnimationUsingKeyFrames>
+                     </Storyboard>
+                  </VisualState>
+                  <VisualState x:Name="Unchecked"/>
+               </VisualStateGroup>
+            </VisualStateManager.VisualStateGroups>
+
+            <!-- Red circle background for CheckBox -->
+            <Ellipse Stroke="Black" Width="50" Height="50">
+               <Ellipse.Fill>
+                  <LinearGradientBrush StartPoint="0,0" EndPoint="2,0">
+                     <GradientStop x:Name="startColor" Color="Red"/>
+                     <GradientStop Color="Black" Offset="1"/>
+                  </LinearGradientBrush>
+               </Ellipse.Fill>
+            </Ellipse>
+
+            <!-- display button image -->
+            <ContentPresenter Content="{TemplateBinding Content}" />
+         </Grid>
+      </ControlTemplate>
+
+      <!-- define template for play, pause and stop RadioButtons -->
+      <ControlTemplate x:Key="RadioButtonControlTemplate" 
+         TargetType="RadioButton">
+         <Grid>
+            <!-- RadioButton appearance changes -->
+            <VisualStateManager.VisualStateGroups>
+               <VisualStateGroup x:Name="CommonStates">
+                  <VisualState x:Name="Normal" />
+                  <VisualState x:Name="Disabled">
+                     <Storyboard>
+                        <ObjectAnimationUsingKeyFrames 
+                           Storyboard.TargetProperty="Color" 
+                           Storyboard.TargetName="startColor">
+                           <DiscreteObjectKeyFrame KeyTime="0" 
+                              Value="LightGray"/>
+                        </ObjectAnimationUsingKeyFrames>
+                     </Storyboard>
+                  </VisualState>
+               </VisualStateGroup>
+               <VisualStateGroup x:Name="CheckStates">
+                  <VisualState x:Name="Checked">
+                     <Storyboard>
+                        <ObjectAnimationUsingKeyFrames 
+                           Storyboard.TargetProperty="Color" 
+                           Storyboard.TargetName="startColor">
+                           <DiscreteObjectKeyFrame KeyTime="0" 
+                              Value="LimeGreen"/>
+                        </ObjectAnimationUsingKeyFrames>
+                     </Storyboard>
+                  </VisualState>
+                  <VisualState x:Name="Unchecked" />
+               </VisualStateGroup>
+            </VisualStateManager.VisualStateGroups>
+
+            <!-- Red circle background for RadioButtons -->
+            <Ellipse Name="backgroundEllipse" Stroke="Black" 
+               Width="50" Height="50">
+               <Ellipse.Fill>
+                  <LinearGradientBrush StartPoint="0,0" EndPoint="2,0">
+                     <GradientStop x:Name="startColor" Color="Red"/>
+                     <GradientStop Color="Black" Offset="1"/>
+                  </LinearGradientBrush>
+               </Ellipse.Fill>
+            </Ellipse>
+
+            <!-- display button image -->
+            <ContentPresenter Content="{TemplateBinding Content}" />
+         </Grid>
+      </ControlTemplate>
+   </Page.Resources>
+
+   <!-- Grid that defines the GUI -->
+   <Grid 
+      Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+      <!-- define the "TV" -->
+      <Border x:Name="tvBorder" Width="800" Height="540" 
+         HorizontalAlignment="Center" VerticalAlignment="Center" 
+         Background="Silver">
+
+         <!-- Make the TV look like its coming out of the screen -->
+         <Border.Projection>
+            <PlaneProjection RotationY="20"/>
+         </Border.Projection>
+
+         <!-- Screen within the Border's bounds -->
+         <Grid>
+            <Grid.RowDefinitions>
+               <RowDefinition />
+               <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <!-- define the screen -->
+            <Border Margin="10" Background="Black"
+               BorderThickness="2" BorderBrush="Silver">
+               <MediaElement Name="videoMediaElement" AutoPlay="False" />
+            </Border>
+
+            <!-- define the play, pause, and stop buttons -->
+            <StackPanel Grid.Row="1" HorizontalAlignment="Right" 
+               Orientation="Horizontal">
+               <RadioButton Name="playRadioButton" IsEnabled="False"
+                  Margin="15"
+                  Template="{StaticResource RadioButtonControlTemplate}"> 
+                  <!-- displayed by ControlTemplate's ContentPresenter -->
+                  <Image Width="40" Height="40"
+                     Source="Assets/Images/play.png" Stretch="Uniform" />
+               </RadioButton>
+               
+               <RadioButton Name="pauseRadioButton" IsEnabled="False"
+                  Margin="15" 
+                  Template="{StaticResource RadioButtonControlTemplate}">
+                  <!-- displayed by ControlTemplate's ContentPresenter -->
+                  <Image Width="40" Height="40"
+                     Source="Assets/Images/pause.png" Stretch="Uniform" />
+               </RadioButton>
+               
+               <RadioButton Name="stopRadioButton" IsEnabled="False"
+                  Margin="15" 
+                  Template="{StaticResource RadioButtonControlTemplate}">
+                  <!-- displayed by ControlTemplate's ContentPresenter -->
+                  <Image Width="40" Height="40" 
+                     Source="Assets/Images/stop.png" Stretch="Uniform" />
+               </RadioButton>
+            </StackPanel>
+
+            <!-- define the power button -->
+            <CheckBox Name="powerCheckBox" Grid.Row="1" 
+               HorizontalAlignment="Left" Margin="15" 
+               Template="{StaticResource CheckBoxControlTemplate}">
+               <!-- displayed by ControlTemplate's ContentPresenter -->
+               <Image Source="Assets/Images/power.png" 
+                  Width="40" Height="40" />
+            </CheckBox>
+         </Grid> 
+      </Border>
+   </Grid>
+</Page>
+
+<!--
+**************************************************************************
+* (C) Copyright 1992-2014 by Deitel & Associates, Inc. and               *
+* Pearson Education, Inc. All Rights Reserved.                           *
+*                                                                        *
+* DISCLAIMER: The authors and publisher of this book have used their     *
+* best efforts in preparing the book. These efforts include the          *
+* development, research, and testing of the theories and programs        *
+* to determine their effectiveness. The authors and publisher make       *
+* no warranty of any kind, expressed or implied, with regard to these    *
+* programs or to the documentation contained in these books. The authors *
+* and publisher shall not be liable in any event for incidental or       *
+* consequential damages in connection with, or arising out of, the       *
+* furnishing, performance, or use of these programs.                     *
+************************************************************************** 
+-->
